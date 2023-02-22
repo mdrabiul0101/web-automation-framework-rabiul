@@ -9,7 +9,7 @@
     <parameter name="browserVersion" value="100"></parameter>
 
     <parameter name="browserName" value="chrome"></parameter>
-    <parameter name="url" value="https://www.amazon.com/"></parameter>
+    <parameter name="url" value="https://phptravels.net/"></parameter>
     <test name="framework tests">
         <classes>
             <class name="test.FrameworkTest"></class>
