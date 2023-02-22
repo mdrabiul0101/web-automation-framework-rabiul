@@ -91,6 +91,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>src/test/resources/runner.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/ashokRunner.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
